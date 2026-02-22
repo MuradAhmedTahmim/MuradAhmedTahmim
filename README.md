@@ -6,8 +6,6 @@
 
 --->
 <!-- 
-<img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/Mahfuz2411/Mahfuz2411/main/assets/banner-first.png" alt="Mahfuz2411" />
--->
 <h1 align="center">Hi 👋, I am Murad Ahmed Tahmim</h1><h3 align="center">Aspiring Mobile App Developer & Competitive Programmer</h3>
 
 <hr/>
@@ -104,10 +102,3 @@
   coming soon
 </p> -->
 <hr/>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuradAhmedTahmim/MuradAhmedTahmim/main/snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuradAhmedTahmim/MuradAhmedTahmim/main/snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/MuradAhmedTahmim/MuradAhmedTahmim/main/snake.svg">
-  </picture>
-</div>
