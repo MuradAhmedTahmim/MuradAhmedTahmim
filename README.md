@@ -8,7 +8,7 @@
 <!-- 
 <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/Mahfuz2411/Mahfuz2411/main/assets/banner-first.png" alt="Mahfuz2411" />
 -->
-<h1 align="center">Hi 👋, I am Murad Ahmed Tahmim</h1><h3 align="center">Full Stack Developer (MERN)</h3>
+<h1 align="center">Hi 👋, I am Murad Ahmed Tahmim</h1><h3 align="center">Aspiring Mobile App Developer & Competitive Programmer</h3>
 
 <hr/>
 
@@ -18,8 +18,7 @@
  I'm Murad, an aspiring app developer and competitive programmer with a strong passion for creating efficient and engaging digital experiences. Currently learning <b>Flutter</b> and <b>Mobile app development</b>, I combine my problem-solving skills in <b>C++</b> to tackle complex challenges effectively. I am always curious and eager to develop my skills, and I enjoy creating innovative projects that help me continuously improve my technical expertise and programming abilities.
 </p>
 <!-- <hr/> -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuz2411&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuz2411" /> </p> -->
-<!-- <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mahfuz2411&rank=-?,A&theme=discord" alt="github profile trophy not working!! 🙄" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuradAhmedTahmim&label=Profile%20views&color=0e75b6&style=flat" alt="MuradAhmedTahmim" /> </p> -->
 <hr/>
 - 📫 How to reach me **muradahmedtahmim@gmail.com**
 <hr/>
@@ -42,7 +41,8 @@
 <h3 align="center">Exploring..</h3>
 <p align="center">     
   <img src="https://skillicons.dev/icons?i=flutter"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=githubactions"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=notion"/>&nbsp;
+  
 </p>
 
 <hr/>
@@ -84,8 +84,8 @@
 <p align="center">
 <!-- <a href="https://www.facebook.com/profile.php?id=61555762982456" target="blank"><img src="https://skillicons.dev/icons?i=facebook"/></a>&nbsp; -->
 
-<a href="https://www.linkedin.com/in/murad-ahmed-tahmim-472107399" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;
-<a href="https://discord.com/users/1280232131016261673" target="blank"><img src="https://skillicons.dev/icons?i=discord"/></a>
+<a href="https://www.linkedin.com/in/murad-ahmed-tahmim-472107399" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;
+<a href="https://discord.com/users/1280232131016261673" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
 
 <hr/>
 <p align="center">
@@ -107,8 +107,8 @@
 <hr/>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahfuz2411/Mahfuz2411/main/snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahfuz2411/Mahfuz2411/main/snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Mahfuz2411/Mahfuz2411/main/snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuradAhmedTahmim/MuradAhmedTahmim/main/snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuradAhmedTahmim/MuradAhmedTahmim/main/snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/MuradAhmedTahmim/MuradAhmedTahmim/main/snake.svg">
   </picture>
 </div>
