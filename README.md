@@ -84,8 +84,14 @@
 <p align="center">
 <!-- <a href="https://www.facebook.com/profile.php?id=61555762982456" target="blank"><img src="https://skillicons.dev/icons?i=facebook"/></a>&nbsp; -->
 
-<a href="https://www.linkedin.com/in/murad-ahmed-tahmim-472107399" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;
-<a href="https://discord.com/users/1280232131016261673" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://www.linkedin.com/in/murad-ahmed-tahmim-472107399" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/users/1280232131016261673" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
+</div>
 
 <hr/>
 <p align="center">
