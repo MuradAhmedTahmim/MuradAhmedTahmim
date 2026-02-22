@@ -84,18 +84,17 @@
 <p align="center">
 <!-- <a href="https://www.facebook.com/profile.php?id=61555762982456" target="blank"><img src="https://skillicons.dev/icons?i=facebook"/></a>&nbsp; -->
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/murad-ahmed-tahmim-472107399" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="height: 40px;">
   </a>
   <a href="https://discord.com/users/1280232131016261673" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" style="height: 40px;">
   </a>
 </div>
 
 <hr/>
 <p align="center">
-  <!-- <span><img align="center" src="https://github-readme-stats-fast.herokuapp.com/?user=mahfuz2411&theme=react" alt="Github Streak Stats Not Working! 😑" /></span> -->
   <span><img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=MuradAhmedTahmim&theme=react" alt="Github Streak Stats Not Working! 😑" /></span>
   
 </p> 
