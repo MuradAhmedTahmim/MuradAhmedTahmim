@@ -82,8 +82,8 @@
 <!-- <a href="https://www.facebook.com/profile.php?id=61555762982456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahfuz.avi" height="30" width="40" /></a>&nbsp; -->
 <a href="https://www.linkedin.com/in/murad-ahmed-tahmim-472107399" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;
 <a href="https://discord.com/users/1280232131016261673" target="blank"><img src="https://skillicons.dev/icons?i=discord"/></a>
-<a href="https://www.facebook.com/profile.php?id=61555762982456" target="blank"><img src="https://cdn.simpleicons.org/facebook/white" 
-       style="background:#1877F2; padding:10px; border-radius:12px;" width="50"></a>&nbsp;
+<a href="https://www.facebook.com/profile.php?id=61555762982456" target="blank"><img src="https://cdn.simpleicons.org/facebook/blue" 
+       style="background:#1877F2; padding:10px; border-radius:12px;" width="48"></a>&nbsp;
 
 <hr/>
 <p align="center">
