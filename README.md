@@ -21,7 +21,7 @@
 
   <!-- Additional Persistent Badges -->
   <div>
-    <img src="https://img.shields.io/badge/📱_Flutter-38BDF8?style=flat-square&logo=flutter&logoColor=white&labelColor=0d1117" />
+    <img align="center" src="https://img.shields.io/badge/📱_Flutter-38BDF8?style=flat-square&logo=flutter&logoColor=white&labelColor=0d1117" />
     <!-- <img src="https://img.shields.io/badge/🚀_Full_Stack-38BDF8?style=flat-square&logo=node.js&logoColor=white&labelColor=0d1117" /> -->
   </div>
   
@@ -42,7 +42,7 @@
 
 <hr style="border: 0; height: 1px; background: #30363d; width: 80%;" />
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center" width="80%">
   I'm Murad, an aspiring app developer and competitive programmer with a strong passion for creating efficient and engaging digital experiences. 
