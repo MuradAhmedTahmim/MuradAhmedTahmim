@@ -21,9 +21,9 @@
 
   <!-- Additional Persistent Badges -->
   <div>
-    <img align="center" src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white&labelColor=0d1117" />
     <img align="center"
-    src="https://img.shields.io/badge/📱_Flutter-38BDF8?style=flat-square&logo=flutter&logoColor=white&labelColor=0d1117" />
+    src="https://img.shields.io/badge/_Flutter-#02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=0d1117" />
   </div>
   
   <br/>
