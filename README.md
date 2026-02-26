@@ -21,7 +21,8 @@
 
   <!-- Additional Persistent Badges -->
   <div>
-    <img align="center" src="https://img.shields.io/badge/📱_Flutter-38BDF8?style=flat-square&logo=flutter&logoColor=white&labelColor=0d1117" />
+    <img style="margin-left:-10px;" 
+    src="https://img.shields.io/badge/📱_Flutter-38BDF8?style=flat-square&logo=flutter&logoColor=white&labelColor=0d1117" />
     <!-- <img src="https://img.shields.io/badge/🚀_Full_Stack-38BDF8?style=flat-square&logo=node.js&logoColor=white&labelColor=0d1117" /> -->
   </div>
   
