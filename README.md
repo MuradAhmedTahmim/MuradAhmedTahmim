@@ -15,9 +15,9 @@
   <h1>Murad Ahmed Tahmim</h1>
   
   <!-- Persistent Identity Badge -->
-  <img src="https://img.shields.io/badge/👨‍💻_Aspiring_App_Developer-38BDF8?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117" alt="Aspiring App Developer"/>
+  <img align="center" src="https://img.shields.io/badge/👨‍💻_Aspiring_App_Developer-38BDF8?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117" alt="Aspiring App Developer"/>
   
-  <h3>From Bangladesh | Turning Ideas into Mobile Apps</h3>
+  <h3 align="center" >From Bangladesh | Turning Ideas into Mobile Apps</h3>
 
   <!-- Additional Persistent Badges -->
   <div>
@@ -28,14 +28,14 @@
   <br/>
   
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Flutter+Developer;Learning+Dart+and+Flutter;Building+My+First+Mobile+Apps;Passionate+About+App+Development;Growing+Every+Day" />
+  <img align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Flutter+Developer;Learning+Dart+and+Flutter;Building+My+First+Mobile+Apps;Passionate+About+App+Development;Growing+Every+Day" />
 
   <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Flutter+Developer;Building+Cross-Platform+Mobile+Apps;Dart+%7C+Firebase+%7C+REST+API;Passionate+About+Clean+Architecture;Always+Learning+New+Technologies" /> -->
   
   <br/><br/>
   
   <!-- Profile Views (Also persistent) -->
-  <img src="https://komarev.com/ghpvc/?username=MuradAhmedTahmim&label=Profile%20Views&color=38BDF8&style=flat-square&labelColor=0d1117" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=MuradAhmedTahmim&label=Profile%20Views&color=38BDF8&style=flat-square&labelColor=0d1117" />
 </div>
 
 <br/><br/>
