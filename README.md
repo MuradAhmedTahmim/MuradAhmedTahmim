@@ -17,6 +17,8 @@
   <!-- Persistent Identity Badge -->
   <img src="https://img.shields.io/badge/👨‍💻_Aspiring_App_Developer-38BDF8?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117" alt="Aspiring App Developer"/>
   
+  <h3>From Bangladesh | Turning Ideas into Mobile Apps</h3>
+
   <!-- Additional Persistent Badges -->
   <div>
     <img src="https://img.shields.io/badge/📱_Flutter-38BDF8?style=flat-square&logo=flutter&logoColor=white&labelColor=0d1117" />
@@ -36,9 +38,16 @@
   <img src="https://komarev.com/ghpvc/?username=MuradAhmedTahmim&label=Profile%20Views&color=38BDF8&style=flat-square&labelColor=0d1117" />
 </div>
 
-<h4 align="center">About Me</h4>
-<p>
- I'm Murad, an aspiring app developer and competitive programmer with a strong passion for creating efficient and engaging digital experiences. Currently learning <b>Flutter</b> and <b>Mobile app development</b>, I combine my problem-solving skills in <b>C++</b> to tackle complex challenges effectively. I am always curious and eager to develop my skills, and I enjoy creating innovative projects that help me continuously improve my technical expertise and programming abilities.
+<br/><br/>
+
+<hr style="border: 0; height: 1px; background: #30363d; width: 80%;" />
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center" width="80%">
+  I'm Murad, an aspiring app developer and competitive programmer with a strong passion for creating efficient and engaging digital experiences. 
+  Currently learning <b>Flutter</b> and <b>Mobile app development</b>, I combine my problem-solving skills in <b>C++</b> to tackle complex challenges effectively. 
+  I am always curious and eager to develop my skills, and I enjoy creating innovative projects that help me continuously improve my technical expertise and programming abilities.
 </p>
 <!-- <hr/> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuradAhmedTahmim&label=Profile%20views&color=0e75b6&style=flat" alt="MuradAhmedTahmim" /> </p> -->
