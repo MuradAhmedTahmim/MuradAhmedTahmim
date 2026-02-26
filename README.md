@@ -11,6 +11,31 @@
 <hr/>
 
 <!-- <h3 align="center">I love programming in every universe</h3> -->
+<div align="center">
+  <h1>Murad Ahmed Tahmim</h1>
+  
+  <!-- Persistent Identity Badge -->
+  <img src="https://img.shields.io/badge/👨‍💻_Aspiring_App_Developer-38BDF8?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117" alt="Aspiring App Developer"/>
+  
+  <!-- Additional Persistent Badges -->
+  <div>
+    <img src="https://img.shields.io/badge/📱_Flutter-38BDF8?style=flat-square&logo=flutter&logoColor=white&labelColor=0d1117" />
+    <!-- <img src="https://img.shields.io/badge/🚀_Full_Stack-38BDF8?style=flat-square&logo=node.js&logoColor=white&labelColor=0d1117" /> -->
+  </div>
+  
+  <br/>
+  
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+Flutter+Developer;Learning+Dart+and+Flutter;Building+My+First+Mobile+Apps;Passionate+About+App+Development;Growing+Every+Day" />
+
+  <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Flutter+Developer;Building+Cross-Platform+Mobile+Apps;Dart+%7C+Firebase+%7C+REST+API;Passionate+About+Clean+Architecture;Always+Learning+New+Technologies" /> -->
+  
+  <br/><br/>
+  
+  <!-- Profile Views (Also persistent) -->
+  <img src="https://komarev.com/ghpvc/?username=MuradAhmedTahmim&label=Profile%20Views&color=38BDF8&style=flat-square&labelColor=0d1117" />
+</div>
+
 <h4 align="center">About Me</h4>
 <p>
  I'm Murad, an aspiring app developer and competitive programmer with a strong passion for creating efficient and engaging digital experiences. Currently learning <b>Flutter</b> and <b>Mobile app development</b>, I combine my problem-solving skills in <b>C++</b> to tackle complex challenges effectively. I am always curious and eager to develop my skills, and I enjoy creating innovative projects that help me continuously improve my technical expertise and programming abilities.
