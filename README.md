@@ -15,7 +15,7 @@
   <h1>Murad Ahmed Tahmim</h1>
   
   <!-- Persistent Identity Badge -->
-  <img align="center" src="https://img.shields.io/badge/👨‍💻_Aspiring_App_Developer-38BDF8?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117" alt="Aspiring App Developer"/>
+  <img align="center" src="https://img.shields.io/badge/_Aspiring_App_Developer-38BDF8?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117" alt="Aspiring App Developer"/>
   
   <h3 align="center" >From Bangladesh | Turning Ideas into Mobile Apps</h3>
 
